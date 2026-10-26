@@ -1,0 +1,7 @@
+# ~/.codex/config.toml  (ejemplo)
+model = "gpt-5.6-sol"          # cerebro caro: diseño, plata, arquitectura
+model_reasoning_effort = "high"
+# Opcional, SOLO si entendés el riesgo (Codex ejecuta sin pedir permiso):
+# approval_policy = "never"
+# sandbox_mode = "danger-full-access"
+# El modelo barato se pide por terminal: codex --yolo -m gpt-5.6-luna

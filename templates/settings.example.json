@@ -1,0 +1,5 @@
+{
+  "env": { "CLAUDE_CODE_SUBAGENT_MODEL": "sonnet" },
+  "model": "sonnet",
+  "permissions": { "defaultMode": "default" }
+}
